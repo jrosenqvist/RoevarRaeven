@@ -3,8 +3,6 @@ A small Unity 2D platformer
 
 Binaries are included for Linux, Windows and MacOS. Only Linux version is verified to work.
 
-Asset folder not included due to being other people's work. 
-
 List of assets used:
 * https://assetstore.unity.com/packages/2d/characters/sunny-land-103349 (Level Elements, Player, Enemies)
 * https://assetstore.unity.com/packages/2d/characters/monsters-creatures-fantasy-167949 (Enemies)
