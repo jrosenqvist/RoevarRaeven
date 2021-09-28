@@ -1,5 +1,5 @@
 # RoevarRaeven
-A small Unity 2D platformer
+A small Unity 2D platformer developed for the course 1DV437 at Linnaeus University, Växjö
 
 Binaries are included for Linux, Windows and MacOS. Only Linux version is verified to work.
 
