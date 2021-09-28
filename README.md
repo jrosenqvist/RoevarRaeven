@@ -1,7 +1,7 @@
 # RoevarRaeven
 A small Unity 2D platformer developed for the course 1DV437 at Linnaeus University, Växjö
 
-Binaries are included for Linux, Windows and MacOS. Only Linux version is verified to work.
+Binaries for **Linux**, **Windows** and **MacOS** can be found under [**Releases**](https://github.com/jrosenqvist/RoevarRaeven/releases). Only Linux version is verified to work.
 
 List of assets used:
 * https://assetstore.unity.com/packages/2d/characters/sunny-land-103349 (Level Elements, Player, Enemies)
